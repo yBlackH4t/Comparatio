@@ -18,7 +18,10 @@ Este script foi desenvolvido para **automatizar o controle de estoque** da minha
 ### 1️⃣ Instale as dependências:  
 ```bash
 pip install -r requeriments.txt
+````
 
 ### 1️⃣ Execute:
+
 ````bash
 python Compartaio.py
+````
